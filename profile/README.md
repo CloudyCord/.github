@@ -5,7 +5,7 @@
 - ● easier, quicker.
 - 
 - ■ The main purpose of us(CloudyCord) is on Discord cloud storage softwares that require webhooks.
-- ■ For example [DisBox](https://disboxapp.github.io/home)
+- ■ For example [DisBox](https://disboxapp.github.io/web)
 - ■ Disbox serves unlimited cloud storage for free but needs webhooks and that's why we created this.
 - ■ But our webhook can be anywhere unless it based on some type of thing that require a personal one.
 - ■ We dont make personal webhooks, so choosing us for personal webhooks is not the  best choice but,
